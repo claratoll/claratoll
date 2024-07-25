@@ -9,3 +9,7 @@ Looking for new app projects!
 📱 Android Developer - Kotlin & Java
 
 📱 IOS Developer - Swift & SwiftUI 
+
+
+
+🏡 Växjö, Sweden.
